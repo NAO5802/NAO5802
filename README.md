@@ -1,5 +1,9 @@
-![](https://github-readme-stats.vercel.app/api?username=NAO5802&count_private=true&show_icons=true&theme=dracula)
-
+<a href="https://github.com/NAO5802">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=NAO5802&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/NAO5802">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAO5802&layout=compact&theme=dracula" />
+</a>
 
 <!--
 **NAO5802/NAO5802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
